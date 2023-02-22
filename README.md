@@ -1,0 +1,2 @@
+# AsalCarpan
+Asal çarpanları bulma
